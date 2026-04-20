@@ -15,9 +15,7 @@ Interaktionsflüsse und Design-Entscheidungen sind im UX-Konzept beschrieben._
 
 == Motivation
 
-_Warum wird dieses Produkt gebaut? Welches Problem existiert heute, und warum ist es relevant?
-Dieser Abschnitt beschreibt den Ausgangszustand und den Handlungsbedarf — ohne bereits eine
-Lösung zu nennen. 3–5 Sätze genügen._
+__Viele Barbetreiber haben Schwierigkeiten, PrivatKunden mit Cocktails zu versorgen. Ebenso möchten Kunden manchmal sich Cocktails bestellen, sei es zuhause oder in bestimmten Anlässen. Das zu erarbeitende Produkt/Software soll dieses Problem für beide lösen. Barbetreiber können ihre Kunden mit Cocktails versorgen__
 
 [Hier die Ausgangssituation und den Handlungsbedarf beschreiben. Beispiel:
 „Studierende an der Hochschule haben heute keinen zentralen Überblick über verfügbare
@@ -103,12 +101,12 @@ erklärt, warum bestimmte Entscheidungen getroffen wurden.
 |===
 | Stakeholder | Rolle / Interesse | Erwartungen an das Produkt | Einfluss
 
-| [z. B. Hochschulverwaltung]
+| [Barbetreiber]
 | [Betreiber der Infrastruktur; will Raumauslastung optimieren]
 | [Auslastungsberichte, DSGVO-Konformität]
 | Hoch
 
-| [z. B. Studierende]
+| [Kunden]
 | [Hauptnutzer:innen; wollen schnell freie Plätze finden]
 | [Einfache Bedienung, mobiler Zugang]
 | Mittel

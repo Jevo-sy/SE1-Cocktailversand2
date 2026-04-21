@@ -102,25 +102,42 @@ erklärt, warum bestimmte Entscheidungen getroffen wurden.
 | Stakeholder | Rolle / Interesse | Erwartungen an das Produkt | Einfluss
 
 | [Barbetreiber]
-| [Betreiber der Infrastruktur; will Raumauslastung optimieren]
-| [Auslastungsberichte, DSGVO-Konformität]
+| [Betreibt die Location und ist Hauptverantwortlicher für Auslastung, Umsatz und reibungslose Abläufe]
+| [Transparente Auslastungsdaten, Optimierung der Platzvergabe, einfache Verwaltung von Reservierungen, DSGVO-Konformität]
 | Hoch
 
 | [Kunden]
-| [Hauptnutzer:innen; wollen schnell freie Plätze finden]
-| [Einfache Bedienung, mobiler Zugang]
+| [Hauptnutzer:innen des Produkts; möchten schnell und unkompliziert freie Plätze finden und buchen]
+| [Intuitive Bedienung, schneller Zugriff (mobil), aktuelle Verfügbarkeiten, zuverlässige Reservierungen]
 | Mittel
 
-| [z. B. Lehrende]
-| [Nutzen Räume für Lehrveranstaltungen; wollen Konflikte vermeiden]
-| [Sichtbarkeit ihrer Buchungen]
+| [Startup-Eigentümer]
+| [Verantwortlich für Geschäftsmodell, Wachstum und Wirtschaftlichkeit des Produkts]
+| [Skalierbarkeit, Monetarisierungsmöglichkeiten, Marktakzeptanz, klare Nutzungsdaten und KPIs]
+| Hoch
+
+| [Lieferdienst]
+| [Sorgt für zuverlässige Lieferung von Waren (z. B. Getränke, Equipment); benötigt planbare Zeitfenster und Zugang zur Location]
+| [Klare Zeitfenster für Anlieferung, einfache Koordination mit Betreibern, ggf. Schnittstellen zu Bestellsystemen]
+| [Niedrig]
+
+| [Barpersonal]
+| [Arbeitet täglich im System; nutzt Informationen zur Auslastung und Belegung zur Planung von Service und Personal]
+| [Echtzeit-Übersicht über Belegung, einfache Bedienung, schnelle Anpassung bei Änderungen (z. B. Reservierungen)]
 | Mittel
 
-| [Weiterer Stakeholder]
-| [Beschreibung]
-| [Erwartungen]
-| [Hoch / Mittel / Niedrig]
+| [Gesetzgeber]
+| [Setzt rechtliche Rahmenbedingungen (z. B. Datenschutz, Sicherheit, Arbeitsrecht)]
+| [DSGVO-Konformität, sichere Datenverarbeitung, transparente Datennutzung]
+| Hoch
+
+| [Entwicklungsteam]
+| [Entwickelt und wartet das Produkt; interessiert an klaren Anforderungen und stabiler Architektur]
+| [Klare Spezifikation, wartbarer Code, realistische Anforderungen, Feedback-Kanäle von Nutzern]
+| Mittel
 |===
+
+
 
 == Hauptfunktionen
 
